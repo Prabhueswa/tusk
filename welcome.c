@@ -6,3 +6,9 @@ void main()
   printf("Bye Bye\n");
 }
 
+fun()
+{
+
+
+}
+

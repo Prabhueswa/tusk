@@ -6,9 +6,17 @@ void main()
   printf("Bye Bye\n");
   printf("Final\n");
 }
-jolly()
+
+fun()
 {
 
 
+}
+jolly()
+{
 
 }
+
+
+
+
